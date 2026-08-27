@@ -108,7 +108,7 @@ function App() {
                       <td className="font-bold text-success">
                         {Number(item.price).toLocaleString()}฿
                       </td>
-                      <td className="text-right">
+                      <td className="text-right pr-4">
                         <button className="btn btn-square btn-ghost btn-sm text-primary hover:bg-primary/10">
                           <Pencil className="size-4" />
                         </button>
